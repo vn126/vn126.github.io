@@ -15,8 +15,7 @@ body{
         color: #495057;
         text-decoration: none;
     }
-    .expedu_icon:hover{
-        background-color: #495057;
-        color: #fff
+    .expedu_icon:hover {
+        color: var(--bs-primary);
     }
 

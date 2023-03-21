@@ -18,4 +18,21 @@ body{
     .expedu_icon:hover {
         color: var(--bs-primary);
     }
+    :root{
+        --bs-primary: #0b00a6;
+        --bs-primary-rgb:11, 0, 166;
+        --bs-secondary: #c07300;
+        --bs-secondary-rgb: 238 ,143, 0;
+    }
+    .expedu_icon:hover{
+        color: var(--bs-secondary);
+    }
+
+    a{
+        color: var(--bs-primary);
+    }
+
+    .social-icons .social-icon:hover {
+        background-color: var(--bs-secondary);
+    }
 

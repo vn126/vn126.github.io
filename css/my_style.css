@@ -12,7 +12,7 @@ body{
         text-transform: none;
     }
     .expedu_icon {
-        color: #495057;
+        color: #034236;
         text-decoration: none;
     }
     .expedu_icon:hover {
@@ -35,7 +35,7 @@ body{
     .social-icons .social-icon:hover {
         background-color: var(--bs-secondary);
     }
-    .margin: 20px auto; 
+     
     
 
 

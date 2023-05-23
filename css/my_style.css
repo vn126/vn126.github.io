@@ -36,12 +36,7 @@ body{
     .social-icons .social-icon:hover {
         background-color: var(--bs-secondary);
     }
-    @media (min-width: 992px){
-        body{
-          padding-top: 0;
-          padding-left: 0rem;
-        }
-      }
+   
 
      
     
